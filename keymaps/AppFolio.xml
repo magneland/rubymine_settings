@@ -1,0 +1,35 @@
+<keymap version="1" name="AppFolio" parent="TextMate">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Github.Create.Gist">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Tool_External Tools_stewfinder">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+</keymap>
