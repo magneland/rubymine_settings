@@ -4638,6 +4638,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email-5.0.0/.circleci" />
       </excluded>
     </library>
+    <library name="af_email (v6.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email-6.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email-6.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_email_validator (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5700,6 +5711,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_json_api (v10.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.0.4/lib" />
       </SOURCES>
     </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
