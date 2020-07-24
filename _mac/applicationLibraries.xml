@@ -37559,6 +37559,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="vcr_cable (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr_cable-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr_cable-1.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr_cable-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr_cable-1.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/vcr_cable-1.0.0/test" />
+      </excluded>
+    </library>
     <library name="virtus (v1.0.5, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
