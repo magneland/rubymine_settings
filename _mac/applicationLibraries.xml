@@ -5911,6 +5911,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_json_api (v10.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6968,6 +6979,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_phone_number_formatter-3.0.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_phone_number_formatter-3.0.0/.circleci" />
       </excluded>
+    </library>
+    <library name="af_phone_number_formatter (v3.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_phone_number_formatter-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_phone_number_formatter-3.1.0/lib" />
+      </SOURCES>
     </library>
     <library name="af_property_json_api_client (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -27470,6 +27492,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pg-1.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pg-1.2.3/spec" />
+      </excluded>
+    </library>
+    <library name="phonelib (v0.6.44, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/data" />
       </excluded>
     </library>
     <library name="plaid (v8.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
