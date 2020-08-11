@@ -3700,6 +3700,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.2.4/config" />
       </excluded>
     </library>
+    <library name="af_authenticator (v10.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.3.0/config" />
+      </excluded>
+    </library>
     <library name="af_authenticator (v6.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
