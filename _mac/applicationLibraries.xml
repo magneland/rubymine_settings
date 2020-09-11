@@ -6068,6 +6068,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.0.0/config" />
       </excluded>
     </library>
+    <library name="af_job (v32.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_job-32.1.0/config" />
+      </excluded>
+    </library>
     <library name="af_json_api (v10.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6132,6 +6156,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_json_api (v11.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-11.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-11.0.0/lib" />
       </SOURCES>
     </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -7145,6 +7180,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-47.0.0/config" />
+      </excluded>
+    </library>
+    <library name="af_payments (v48.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_payments-48.1.0/config" />
       </excluded>
     </library>
     <library name="af_payments_data_service (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -17563,6 +17616,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="dry-logic (v1.0.7, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-types (v1.4.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17813,6 +17877,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.6/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.6/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.6/benchmarks" />
+      </excluded>
+    </library>
+    <library name="em-http-request (v1.1.7, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/em-http-request-1.1.7/benchmarks" />
       </excluded>
     </library>
     <library name="em-socksify (v0.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
