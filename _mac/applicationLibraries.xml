@@ -4662,6 +4662,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.1/config" />
       </excluded>
     </library>
+    <library name="af_devise (v16.4.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/config" />
+      </excluded>
+    </library>
     <library name="af_dont_use_this_implicit_numericality_hook (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4954,6 +4974,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email_validator-2.0.0/.circleci" />
       </excluded>
+    </library>
+    <library name="af_email_validator (v2.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email_validator-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_email_validator-2.1.0/lib" />
+      </SOURCES>
     </library>
     <library name="af_encrypted_attr (v6.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -9542,6 +9573,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_voice (v1.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="afshell (v0.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -14314,6 +14356,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.15/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.15/spec" />
+      </excluded>
+    </library>
+    <library name="bcrypt (v3.1.16, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/spec" />
       </excluded>
     </library>
     <library name="benchmark-ips (v2.7.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -37716,6 +37779,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.39.3/githooks" />
       </excluded>
     </library>
+    <library name="twilio-ruby (v5.40.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/githooks" />
+      </excluded>
+    </library>
     <library name="typhoeus (v1.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -38748,6 +38836,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.8/lib" />
       </SOURCES>
+    </library>
+    <library name="warden (v1.2.9, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.9/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.9/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/warden-1.2.9/.github" />
+      </excluded>
     </library>
     <library name="wasabi (v3.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
