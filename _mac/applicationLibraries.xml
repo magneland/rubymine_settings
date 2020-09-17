@@ -4837,6 +4837,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.4.2/config" />
       </excluded>
     </library>
+    <library name="af_devise (v16.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/config" />
+      </excluded>
+    </library>
     <library name="af_dont_use_this_implicit_numericality_hook (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6369,6 +6389,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-11.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_json_api (v11.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-11.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-11.1.0/lib" />
       </SOURCES>
     </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -7925,6 +7956,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_rails (v39.2.0.pre.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.2.0.pre.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.2.0.pre.1/lib" />
       </SOURCES>
     </library>
     <library name="af_request (v2.10.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -9766,6 +9808,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_voice (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="afshell (v0.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -24921,6 +24974,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_portile2-2.4.0/concourse" />
       </excluded>
     </library>
+    <library name="minitar (v0.9, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitar-0.9/test" />
+      </excluded>
+    </library>
     <library name="minitest (v5.10.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27810,6 +27882,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.19.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.19.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.19.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel_tests (v2.30.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -28580,6 +28663,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/phonelib-0.6.44/data" />
+      </excluded>
+    </library>
+    <library name="pkg-config (v1.4.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pkg-config-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pkg-config-1.4.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pkg-config-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pkg-config-1.4.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/pkg-config-1.4.3/test" />
       </excluded>
     </library>
     <library name="plaid (v11.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -33778,6 +33877,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.91.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-ast (v0.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -33787,6 +33911,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v0.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-minitest (v0.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
