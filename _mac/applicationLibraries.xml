@@ -4405,6 +4405,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_csslint-1.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="af_db_reports (v4.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_db_reports-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_db_reports-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_db_reports-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_db_reports-4.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_db_reports-4.0.1/bin" />
+      </excluded>
+    </library>
     <library name="af_dev (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
