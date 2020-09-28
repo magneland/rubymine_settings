@@ -4873,6 +4873,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.0/config" />
       </excluded>
     </library>
+    <library name="af_devise (v16.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_devise-16.5.1/config" />
+      </excluded>
+    </library>
     <library name="af_dont_use_this_implicit_numericality_hook (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17428,6 +17448,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.2/config" />
+      </excluded>
+    </library>
+    <library name="devise (v4.7.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise-4.7.3/config" />
       </excluded>
     </library>
     <library name="devise-bootstrap-views (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -38629,6 +38667,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.1/githooks" />
+      </excluded>
+    </library>
+    <library name="twilio-ruby (v5.40.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.40.3/githooks" />
       </excluded>
     </library>
     <library name="typhoeus (v1.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
