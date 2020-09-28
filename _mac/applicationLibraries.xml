@@ -11118,6 +11118,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.345.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.346.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.346.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.346.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.368.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12551,6 +12562,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-firehose-1.29.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-firehose (v1.31.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-firehose-1.31.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-firehose-1.31.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-fms (v1.21.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -14817,6 +14839,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt-3.1.16/spec" />
+      </excluded>
+    </library>
+    <library name="bcrypt_pbkdf (v1.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bcrypt_pbkdf-1.0.1/test" />
       </excluded>
     </library>
     <library name="benchmark-ips (v2.7.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -18163,6 +18204,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="ed25519 (v1.2.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ed25519-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ed25519-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ed25519-1.2.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ed25519-1.2.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ed25519-1.2.4/ext" />
+      </excluded>
     </library>
     <library name="ejs (v1.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
