@@ -3223,6 +3223,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activesupport-5.2.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.4.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activesupport-5.2.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activesupport-5.2.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.2.4.4, RVM: ruby-2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
