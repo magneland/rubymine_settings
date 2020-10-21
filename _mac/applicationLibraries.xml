@@ -4111,6 +4111,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.0.1/bin" />
       </excluded>
     </library>
+    <library name="aes_key_wrap (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aes_key_wrap-1.1.0/bin" />
+      </excluded>
+    </library>
     <library name="af_ach (v17.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17111,6 +17127,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.7/examples" />
       </excluded>
     </library>
+    <library name="bindata (v2.4.8, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bindata-2.4.8/examples" />
+      </excluded>
+    </library>
     <library name="bindex (v0.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26616,6 +26651,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-jwt-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="json-jwt (v1.13.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-jwt-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-jwt-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="json-schema (v2.8.0, ruby-2.6.3-p62) [gem]" type="rubylib">
