@@ -5196,6 +5196,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_bundle-16.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_bundle (v16.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_bundle-16.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_bundle-16.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="af_bundle_testing (v25.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9168,6 +9179,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_property_json_api_client-3.34.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_property_json_api_client (v4.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_property_json_api_client-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_property_json_api_client-4.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_public_asset_tracker (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11659,6 +11681,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_voice (v5.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_voice-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="afshell (v0.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
