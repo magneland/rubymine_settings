@@ -19568,6 +19568,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/curb-0.9.10/tests" />
       </excluded>
     </library>
+    <library name="cxml-ruby (v0.6.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cxml-ruby-0.6.1/.github" />
+      </excluded>
+    </library>
     <library name="daemons (v1.2.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30291,6 +30310,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mustermann-grape-1.0.1/spec" />
       </excluded>
     </library>
+    <library name="mysql-binuuid-rails (v1.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql-binuuid-rails-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql-binuuid-rails-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql-binuuid-rails-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql-binuuid-rails-1.2.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql-binuuid-rails-1.2.1/bin" />
+      </excluded>
+    </library>
     <library name="mysql2 (v0.3.21, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30953,6 +30988,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/newrelic_rpm-6.13.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/newrelic_rpm-6.13.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/newrelic_rpm-6.13.0/recipes" />
+      </excluded>
+    </library>
+    <library name="newrelic_rpm (v6.13.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/newrelic_rpm-6.13.1/recipes" />
       </excluded>
     </library>
     <library name="newrelic_rpm (v6.5.0.357, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -32365,6 +32431,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ox (v2.13.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.13.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.13.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.13.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ox-2.13.4/lib" />
       </SOURCES>
     </library>
     <library name="packwerk (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -34837,6 +34916,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.4/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.4/tools" />
+      </excluded>
+    </library>
+    <library name="puma (v3.12.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/tools" />
       </excluded>
     </library>
     <library name="puma (v4.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -39643,6 +39747,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.88.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop (v0.91.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -39677,6 +39806,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v0.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-ast (v0.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -39882,6 +40022,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-rails-2.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/rubocop-rails-2.6.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rails (v2.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-rails-2.7.0/config" />
       </excluded>
     </library>
     <library name="rubocop-rails_config (v0.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
