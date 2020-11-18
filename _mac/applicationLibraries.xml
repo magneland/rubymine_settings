@@ -44288,6 +44288,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.7.2/example" />
       </excluded>
     </library>
+    <library name="thin (v1.8.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/thin/1.8.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/thin-1.8.0/example" />
+      </excluded>
+    </library>
     <library name="thor (v0.19.4, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
