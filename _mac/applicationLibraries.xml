@@ -7245,6 +7245,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-13.0.0.barun3/lib" />
       </SOURCES>
     </library>
+    <library name="af_json_api (v14.0.0.serializer4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-14.0.0.serializer4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-14.0.0.serializer4/lib" />
+      </SOURCES>
+    </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25769,6 +25780,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/jsonapi-serializable-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-serializer (v2.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/jsonapi-serializer-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/jsonapi-serializer-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="juwelier (v2.4.9, ruby-2.6.3-p62) [gem]" type="rubylib">
