@@ -41547,6 +41547,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sunspot_rails-2.3.0/generators" />
       </excluded>
     </library>
+    <library name="sync (v0.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sync-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sync-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sync-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sync-0.5.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sync-0.5.0/bin" />
+      </excluded>
+    </library>
     <library name="sys-filesystem (v1.1.9, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
