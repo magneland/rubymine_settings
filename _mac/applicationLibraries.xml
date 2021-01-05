@@ -26216,6 +26216,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/data" />
@@ -26225,6 +26226,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-1.8.6/data" />
@@ -29129,6 +29131,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mono_logger-1.1.0/test" />
       </excluded>
     </library>
+    <library name="mry (v0.78.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mry-0.78.0.0/exe" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.10, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30190,6 +30211,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/spec" />
@@ -30197,6 +30219,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nio4r-2.3.1/spec" />
@@ -30485,6 +30508,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/lib" />
@@ -30494,6 +30518,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.8.2/lib" />
@@ -31691,6 +31716,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.19.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.20.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.20.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parallel-1.20.1/lib" />
       </SOURCES>
     </library>
     <library name="parallel_tests (v2.30.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -36281,6 +36317,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-1.8.2/spec" />
       </excluded>
     </library>
+    <library name="regexp_parser (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </excluded>
+    </library>
     <library name="regexp_property_values (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -38082,350 +38134,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0/rss/dublincore" />
       </excluded>
     </library>
-    <library name="rubocop (v0.39.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.39.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.50.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.50.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.54.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.54.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.71.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.71.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.75.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.75.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.76.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.76.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.78.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.78.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.79.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.79.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.80.1, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.80.1/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.83.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.83.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.85.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.85.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.88.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.88.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.91.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.0/config" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.91.1, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-0.91.1/config" />
-      </excluded>
-    </library>
     <library name="rubocop (v1.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -39468,11 +39176,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rugged/0.28.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rugged/0.28.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rugged-0.28.3.1/vendor" />
@@ -45415,10 +45125,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
