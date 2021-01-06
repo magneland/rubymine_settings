@@ -42514,36 +42514,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test-unit-3.3.7/sample" />
       </excluded>
     </library>
-    <library name="test_launcher (v2.23.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+    <library name="test_launcher (v2.26.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.23.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.26.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.26.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.23.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.26.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.26.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.23.0/bin" />
-      </excluded>
-    </library>
-    <library name="test_launcher (v2.24.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.24.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.24.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.24.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.24.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/test_launcher-2.26.0/bin" />
       </excluded>
     </library>
     <library name="text (v1.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
