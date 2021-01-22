@@ -7564,6 +7564,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-15.3.0.pre.3/lib" />
       </SOURCES>
     </library>
+    <library name="af_json_api (v16.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8033,6 +8044,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-0.1.5/config" />
+      </excluded>
+    </library>
+    <library name="af_migration_sensitivity_extensions (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_migration_sensitivity_extensions-1.0.0/config" />
       </excluded>
     </library>
     <library name="af_oauth (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -10589,6 +10618,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_selenium-22.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_selenium (v22.8.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_selenium-22.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_selenium-22.8.0/lib" />
       </SOURCES>
     </library>
     <library name="af_send_and_delete_file (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -45570,6 +45610,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="user_agent_parser (v2.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/user_agent_parser-2.7.0/bin" />
       </excluded>
     </library>
     <library name="utility_app_client (v1.12.0, ruby-2.6.3-p62) [gem]" type="rubylib">
