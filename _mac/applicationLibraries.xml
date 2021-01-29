@@ -9661,6 +9661,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="af_rails (v39.2.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_rails-39.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="af_registry_client (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
