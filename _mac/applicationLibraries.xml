@@ -35272,6 +35272,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/lib" />
@@ -35279,6 +35280,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.11.4/lib" />
@@ -41532,11 +41534,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/1.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/1.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/sassc-1.11.4/test" />
