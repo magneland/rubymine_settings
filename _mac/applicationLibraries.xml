@@ -4439,6 +4439,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-10.4.0/config" />
       </excluded>
     </library>
+    <library name="af_authenticator (v11.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_authenticator-11.0.0/config" />
+      </excluded>
+    </library>
     <library name="af_authenticator (v6.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -33772,6 +33790,47 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.6/download_cache" />
       </excluded>
     </library>
+    <library name="passenger (v6.0.7, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/buildout" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/download_cache" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/buildout" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/download_cache" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/dev" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/build" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/buildout" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/resources" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/passenger-6.0.7/download_cache" />
+      </excluded>
+    </library>
     <library name="pastel (v0.7.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45352,6 +45411,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.0/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.0/githooks" />
+      </excluded>
+    </library>
+    <library name="twilio-ruby (v5.46.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/conf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/twilio-ruby-5.46.1/githooks" />
       </excluded>
     </library>
     <library name="typhoeus (v1.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
