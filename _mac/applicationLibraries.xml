@@ -12346,6 +12346,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/annotate-3.1.1/bin" />
       </excluded>
     </library>
+    <library name="ansi (v1.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
+      </excluded>
+    </library>
     <library name="apnotic (v1.6.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18182,25 +18201,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bump-0.10.0/bin" />
       </excluded>
     </library>
-    <library name="bundler (v1.17.3, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
-      </excluded>
-    </library>
     <library name="bundler (v2.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18237,22 +18237,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.1.4/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.1.4/man" />
-      </excluded>
-    </library>
-    <library name="bundler (v2.2.10, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
       </excluded>
     </library>
     <library name="bundler-audit (v0.6.1, ruby-2.6.3-p62) [gem]" type="rubylib">
