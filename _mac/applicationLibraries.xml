@@ -8210,6 +8210,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_oauth-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_oauth (v2.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_oauth-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_oauth-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_outboundach (v12.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12333,25 +12344,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/annotate-3.1.1/bin" />
-      </excluded>
-    </library>
-    <library name="ansi (v1.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
       </excluded>
     </library>
     <library name="apnotic (v1.6.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -18247,6 +18239,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.2.10, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-2.2.10/exe" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.6.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22892,6 +22900,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.3/test" />
+      </excluded>
+    </library>
+    <library name="faraday (v0.17.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-0.17.4/test" />
       </excluded>
     </library>
     <library name="faraday (v0.9.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -32395,6 +32422,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.10.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.10.8/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.10.8/pages" />
+      </excluded>
+    </library>
+    <library name="oj (v3.11.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/pages" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.2/pages" />
       </excluded>
     </library>
     <library name="oj (v3.6.5, ruby-2.6.3-p62) [gem]" type="rubylib">
