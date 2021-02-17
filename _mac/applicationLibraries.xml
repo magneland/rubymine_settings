@@ -1826,6 +1826,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/rails-cf1881237a3b/activemodel/test" />
       </excluded>
     </library>
+    <library name="activemodel (v6.1.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activemodel-6.1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activemodel-6.1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel-serializers-xml (v1.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2993,6 +3004,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/rails-cf1881237a3b/activesupport/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/rails-cf1881237a3b/activesupport/test" />
       </excluded>
+    </library>
+    <library name="activesupport (v6.1.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activesupport-6.1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/activesupport-6.1.2.1/lib" />
+      </SOURCES>
     </library>
     <library name="acts-as-taggable-on (v6.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -6372,6 +6394,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.1.0/bin" />
+      </excluded>
+    </library>
+    <library name="af_gems (v9.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/bin" />
       </excluded>
     </library>
     <library name="af_geography (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -13425,6 +13463,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.417.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.427.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.427.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.427.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.67.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14330,6 +14379,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.111.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.112.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.112.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.112.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.46.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -15696,6 +15756,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-kms-1.41.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.42.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-kms-1.42.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-kms-1.42.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-lakeformation (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16656,6 +16727,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.87.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.88.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.88.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.88.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-s3control (v1.14.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -23941,6 +24023,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/gem-release-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="gem-release (v2.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/gem-release-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/gem-release-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.4.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26713,6 +26806,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/i18n-1.8.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.8.9, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/i18n-1.8.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/i18n-1.8.9/lib" />
       </SOURCES>
     </library>
     <library name="i18n-tasks (v0.9.24, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -29846,6 +29950,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.2/assets" />
+      </excluded>
+    </library>
+    <library name="minitest-reporters (v1.4.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/minitest-reporters-1.4.3/assets" />
       </excluded>
     </library>
     <library name="minitest_rollbar (v0.3.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -39307,6 +39430,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.1/gemfiles" />
       </excluded>
     </library>
+    <library name="rollbar (v3.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rollbar-3.1.2/gemfiles" />
+      </excluded>
+    </library>
     <library name="roo (v2.7.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -43006,6 +43160,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.19.0/doc" />
       </excluded>
     </library>
+    <library name="simplecov (v0.21.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.21.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.21.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.21.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.21.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-0.21.2/doc" />
+      </excluded>
+    </library>
     <library name="simplecov-html (v0.10.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -43212,6 +43382,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov-lcov-0.8.0/spec" />
       </excluded>
+    </library>
+    <library name="simplecov_json_formatter (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov_json_formatter-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov_json_formatter-0.1.2/lib" />
+      </SOURCES>
     </library>
     <library name="sinatra (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -45710,6 +45891,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tzinfo-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v2.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tzinfo-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tzinfo-2.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="uber (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -47088,6 +47280,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.1/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.1/minitest" />
+      </excluded>
+    </library>
+    <library name="webmock (v3.11.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/webmock-3.11.2/minitest" />
       </excluded>
     </library>
     <library name="webmock (v3.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
