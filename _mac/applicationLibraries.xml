@@ -4176,6 +4176,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_arel_extensions (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_asset_store (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6423,6 +6434,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_gems-9.2.0/bin" />
       </excluded>
     </library>
+    <library name="af_geocoding_client (v1.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_geocoding_client-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_geocoding_client-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_geography (v2.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7673,6 +7695,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.1.0.pre.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_json_api (v16.1.0.tim1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.1.0.tim1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.1.0.tim1/lib" />
       </SOURCES>
     </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -21560,6 +21593,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-configurable-0.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="dry-configurable (v0.12.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-configurable-0.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-configurable-0.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-container (v0.7.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21709,6 +21753,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-types-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-types (v1.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-types-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-types-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="dynamic_time_zone (v0.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
