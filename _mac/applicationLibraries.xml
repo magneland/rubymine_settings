@@ -18430,23 +18430,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bump-0.10.0/bin" />
       </excluded>
     </library>
-    <library name="bundler (v2.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+    <library name="bundler (v1.17.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/bundler-1.17.3/man" />
       </excluded>
     </library>
     <library name="bundler (v2.1.4, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -41398,99 +41398,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/test" />
-      </excluded>
-    </library>
-    <library name="rubygems-update (v3.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/hide_lib_for_update" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/hide_lib_for_update" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.2/bundler" />
-      </excluded>
-    </library>
-    <library name="rubygems-update (v3.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/hide_lib_for_update" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/hide_lib_for_update" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/tmp" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/util" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/.bundle" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.1.3/bundler" />
-      </excluded>
-    </library>
-    <library name="rubygems-update (v3.2.11, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/hide_lib_for_update" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/hide_lib_for_update" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler" />
       </excluded>
     </library>
     <library name="RubyInlineWithoutZenTest (v3.12.4.1, ruby-2.6.3-p62) [gem]" type="rubylib">
