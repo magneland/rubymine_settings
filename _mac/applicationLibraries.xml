@@ -18473,15 +18473,48 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubygems-update-3.2.11/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/man" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
     <library name="bundler-audit (v0.6.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -20506,14 +20539,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/debug_inspector-1.0.0/lib" />
@@ -23517,13 +23548,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.14.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.14.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ffi-1.14.2/samples" />
@@ -38035,13 +38064,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rb-fsevent-0.10.4/lib" />
