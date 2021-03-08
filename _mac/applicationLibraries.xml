@@ -7420,6 +7420,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_json_api (v10.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-10.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="af_json_api (v10.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10188,6 +10199,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.1.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.1.1/.circleci" />
+      </excluded>
+    </library>
+    <library name="af_runtime (v19.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_runtime-19.2.0/.circleci" />
       </excluded>
     </library>
     <library name="af_runtime (v19.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
