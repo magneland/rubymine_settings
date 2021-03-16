@@ -29483,6 +29483,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="marginalia (v1.10.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marginalia-1.10.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="maruku (v0.7.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
