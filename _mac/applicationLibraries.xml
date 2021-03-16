@@ -21017,6 +21017,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.0/test" />
       </excluded>
     </library>
+    <library name="declarative-option (v0.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/declarative-option-0.1.1/.github" />
+      </excluded>
+    </library>
     <library name="deep_merge (v1.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
