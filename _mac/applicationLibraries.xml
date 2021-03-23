@@ -8159,6 +8159,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.2.0.magne1/lib" />
       </SOURCES>
     </library>
+    <library name="af_json_api (v16.2.0.magne2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.2.0.magne2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_json_api-16.2.0.magne2/lib" />
+      </SOURCES>
+    </library>
     <library name="af_json_api (v2.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
