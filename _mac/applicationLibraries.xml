@@ -3388,7 +3388,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/spec" />
@@ -3396,7 +3395,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/mysql2-0.5.2/spec" />
@@ -3584,7 +3582,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/spec" />
@@ -3593,7 +3590,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nio4r-2.5.7/spec" />
@@ -3655,13 +3651,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/nokogiri-1.11.2-x86_64-darwin/lib" />
@@ -4102,7 +4096,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/lib" />
@@ -4112,7 +4105,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/racc-1.5.2/lib" />
@@ -5678,12 +5670,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/websocket-driver-0.7.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1/gems/websocket-driver-0.7.3/lib" />
       </SOURCES>
