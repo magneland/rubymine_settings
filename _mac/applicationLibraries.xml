@@ -33570,6 +33570,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.4/gemfiles" />
       </excluded>
     </library>
+    <library name="oauth2 (v1.4.7, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oauth2-1.4.7/spec" />
+      </excluded>
+    </library>
     <library name="octokit (v3.8.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -33903,12 +33919,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oj/3.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/oj-3.11.3/test" />
