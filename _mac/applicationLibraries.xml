@@ -14594,6 +14594,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.443.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.444.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.444.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.444.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.67.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15543,6 +15554,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.113.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.114.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.114.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-core-3.114.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.46.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -17935,6 +17957,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.93.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.93.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.93.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.93.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-s3control (v1.14.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -22866,6 +22899,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-logic (v1.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/dry-logic-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="dry-types (v1.4.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -30168,6 +30212,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/loofah-2.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.9.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/loofah-2.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/loofah-2.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.10, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30333,6 +30388,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marcel-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="marcel (v1.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marcel-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/marcel-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="marginalia (v1.10.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -31238,6 +31304,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.0.3/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.0.3/.github" />
+      </excluded>
+    </library>
+    <library name="mini_mime (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.0/.github" />
       </excluded>
     </library>
     <library name="mini_portile2 (v2.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -33680,6 +33768,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.2/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.11.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
       </excluded>
     </library>
     <library name="nokogiri (v1.6.8.1, ruby-2.6.3-p62) [gem]" type="rubylib">
