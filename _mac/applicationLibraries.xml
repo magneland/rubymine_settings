@@ -4870,6 +4870,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_arel_extensions (v1.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_arel_extensions-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_asset_store (v3.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11703,6 +11714,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.0/bin" />
       </excluded>
     </library>
+    <library name="af_sanitizer (v0.8.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_sanitizer-0.8.2/bin" />
+      </excluded>
+    </library>
     <library name="af_scrat (v0.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13069,6 +13096,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_temp_files-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="af_temp_files (v3.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_temp_files-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/af_temp_files-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="af_testing (v13.0.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13881,6 +13919,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/demo" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ansi-1.5.0/test" />
       </excluded>
+    </library>
+    <library name="apm_cdn (v1.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/apm_cdn-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/apm_cdn-1.1.1/lib" />
+      </SOURCES>
     </library>
     <library name="apnotic (v1.6.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -15091,6 +15140,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.447.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.449.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.449.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.449.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v1.67.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -18469,6 +18529,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.93.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.94.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.94.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.94.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3control (v1.14.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21611,6 +21682,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="contacts (v18.6.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/contacts-18.6.1/lib" />
       </SOURCES>
     </library>
     <library name="context-pattern (v1.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -38278,6 +38362,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/lib" />
@@ -38285,6 +38370,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/puma-3.12.6/lib" />
@@ -41232,6 +41318,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rental_applications_models-46.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rental_applications_models (v46.2.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rental_applications_models-46.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rental_applications_models-46.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rentlinx (v0.12.0, ruby-2.6.3-p62) [gem]" type="rubylib">
