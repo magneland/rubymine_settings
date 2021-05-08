@@ -33633,6 +33633,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/spec" />
@@ -33640,6 +33641,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/spec" />
@@ -34671,12 +34673,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.3/lib" />
@@ -36437,6 +36441,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.0/bin" />
+      </excluded>
+    </library>
+    <library name="parser (v3.0.1.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/parser-3.0.1.1/bin" />
       </excluded>
     </library>
     <library name="parslet (v1.8.2, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -38899,6 +38919,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/lib" />
@@ -38908,6 +38929,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/lib" />
@@ -43401,6 +43423,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.11.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v1.14.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-1.14.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop (v1.6.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -43564,6 +43608,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v1.5.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/rubocop-ast-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-minitest (v0.10.1, ruby-2.6.3-p62) [gem]" type="rubylib">
