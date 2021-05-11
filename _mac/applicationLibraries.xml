@@ -29812,11 +29812,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/json-2.5.1/tests" />
@@ -46624,6 +46626,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov_json_formatter-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="simplecov_json_formatter (v0.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov_json_formatter-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/simplecov_json_formatter-0.1.3/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
