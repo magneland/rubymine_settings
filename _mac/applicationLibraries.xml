@@ -4364,6 +4364,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ae_network_connection_exception-1.5.1/test" />
       </excluded>
     </library>
+    <library name="ae_page_objects (v4.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ae_page_objects-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/ae_page_objects-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ae_page_objects (v4.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15367,6 +15378,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.347.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.359.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.359.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-partitions-1.359.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.365.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18883,6 +18905,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.75.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.79.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.79.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/aws-sdk-s3-1.79.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.79.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20411,6 +20444,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.0.1/bundle" />
+      </excluded>
+    </library>
+    <library name="brakeman (v4.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bundle" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/brakeman-4.5.1/bundle" />
       </excluded>
     </library>
     <library name="builder (v3.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -23235,6 +23287,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_invitable-1.7.4/config" />
       </excluded>
     </library>
+    <library name="devise_security_extension (v8.0.0.pre.appfolio.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/devise_security_extension-8.0.0.pre.appfolio.1/config" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25562,6 +25635,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.0.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.0.1/examples" />
+      </excluded>
+    </library>
+    <library name="faraday (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/faraday-1.1.0/examples" />
       </excluded>
     </library>
     <library name="faraday (v1.3.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -34160,6 +34252,28 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-http2-0.18.2/bin" />
+      </excluded>
+    </library>
+    <library name="net-ldap (v0.16.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/testserver" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/testserver" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/net-ldap-0.16.1/testserver" />
       </excluded>
     </library>
     <library name="net-scp (v1.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -47427,6 +47541,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/spring-2.1.1/bin" />
       </excluded>
+    </library>
+    <library name="spring-commands-testunit (v1.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/spring-commands-testunit-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/spring-commands-testunit-1.0.1/lib" />
+      </SOURCES>
     </library>
     <library name="spring-watcher-listen (v2.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
