@@ -35922,6 +35922,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/spec" />
@@ -35929,6 +35930,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/mysql2/0.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/mysql2-0.5.2/spec" />
@@ -37061,11 +37063,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.11.7-x86_64-darwin/lib" />
@@ -38057,10 +38061,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/openssl/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/openssl-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/openssl-2.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/openssl/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/openssl-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/openssl-2.2.0/lib" />
       </SOURCES>
@@ -41570,6 +41576,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/lib" />
@@ -41579,6 +41586,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/racc-1.5.2/lib" />
